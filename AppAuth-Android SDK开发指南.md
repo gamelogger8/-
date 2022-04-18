@@ -261,3 +261,7 @@ fun signOut(context: Context) {
 
 6	参考代码 <br/>
 
+AppAuth_Android_Codelab: https://github.com/gamelogger8/-/tree/main/AppAuth_Android_Codelab <br/>
+AppAuthDemo(Huawei Google): https://github.com/gamelogger8/-/tree/main/AppAuthDemo(Huawei%20Google) <br/>
+
+
